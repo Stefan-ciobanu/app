@@ -1,0 +1,15 @@
+{
+  "main.css": "/stockapp/static/css/main.169d615f.chunk.css",
+  "main.js": "/stockapp/static/js/main.69b1fd7f.chunk.js",
+  "main.js.map": "/stockapp/static/js/main.69b1fd7f.chunk.js.map",
+  "static/js/1.a339ac75.chunk.js": "/stockapp/static/js/1.a339ac75.chunk.js",
+  "static/js/1.a339ac75.chunk.js.map": "/stockapp/static/js/1.a339ac75.chunk.js.map",
+  "static/js/2.cf9ba0c1.chunk.js": "/stockapp/static/js/2.cf9ba0c1.chunk.js",
+  "static/js/2.cf9ba0c1.chunk.js.map": "/stockapp/static/js/2.cf9ba0c1.chunk.js.map",
+  "runtime~main.js": "/stockapp/static/js/runtime~main.ac51d6ac.js",
+  "runtime~main.js.map": "/stockapp/static/js/runtime~main.ac51d6ac.js.map",
+  "static/css/main.169d615f.chunk.css.map": "/stockapp/static/css/main.169d615f.chunk.css.map",
+  "index.html": "/stockapp/index.html",
+  "precache-manifest.e1a1662e8d0166ae7816bb0e2f21c328.js": "/stockapp/precache-manifest.e1a1662e8d0166ae7816bb0e2f21c328.js",
+  "service-worker.js": "/stockapp/service-worker.js"
+}
