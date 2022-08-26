@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+  height: 120vh;
+  background-color:#122b2b;
+  border-radius: 10px;
+}

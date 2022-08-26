@@ -1,0 +1,19 @@
+
+.symbolsContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.check-box-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.checkbox{
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;   
+}

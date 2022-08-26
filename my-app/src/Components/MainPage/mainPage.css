@@ -1,0 +1,45 @@
+
+.chart{
+    width: 1100px;
+    height: 400px;
+    padding: 20px;
+    margin-left: 20px;   
+}
+
+  .title {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    border:#56a2a3;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    font-family: Ubuntu;
+    font-size: 24px;
+    margin: 0;
+    height: 50px;
+    color: white;
+    font-weight: 300;
+  }
+
+label{
+    margin-right: 10px;
+    font-family: "Ubuntu";
+    font-size: 20px;   
+    color: white;
+}
+
+input{
+    margin:10px;
+    border-radius: 5px;
+    padding: 3px 10px;
+    font-size: 18px;
+    font-family: Ubuntu;
+}
+select{
+    margin:10px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 18px;
+    font-family: Ubuntu;
+}
